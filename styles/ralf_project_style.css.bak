@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+/* Stylesheet Internetseiten des SPP-1158-Antarktisforschung */
+
+body,p,ul,ol,li,blockquote {font-family:Arial, Geneva, sans-serif; color:#000000; font-style:normal; font-weight:normal; font-size:15px}
+
+h1 {font-family:Arial, Geneva, sans-serif; color:#004080; font-style:normal; font-size:24px}
+h2 {font-family:Arial, Geneva, sans-serif; color:#004080; font-style:normal; font-size:18px}
+h3 {font-family:Arial, Geneva, sans-serif; color:#004080 ; font-style:normal; font-size:15px}
+h4 {font-family:Arial, Geneva, sans-serif; color:#000000; font-style:normal; font-size:15px}
+
+th {font-family:Arial, Geneva, sans-serif; color:#000000; font-style:normal; font-size:15px}
+td {font-family:Arial, Geneva, sans-serif; color:#000000; font-style:normal; font-size:15px}
+	 
+a {font-family:Arial, Geneva, sans-serif; color:#000000; font-style:normal; font-size:15px; text-decoration:none}
+a:link {font-family:Arial, Geneva, sans-serif; color:#000000; font-style:normal; font-weight:normal; font-size:15px; text-decoration:none}
+a:active {font-family:Arial, Geneva, sans-serif; color:#000000; font-style:normal; font-weight:normal; font-size:15px; text-decoration:none}
+a:visited {font-family:Arial, Geneva, sans-serif; color:#000000; font-style:normal; font-weight:normal; font-size:15px; text-decoration:none}
+a:hover {font-family:Arial, Geneva, sans-serif; color:#FFFFFF; background-color:#004080; font-style:normal; font-weight:normal; font-size:15px; text-decoration:none}
+a:focus {font-family:Arial, Geneva, sans-serif; color:#000000; font-style:normal; font-weight:normal; font-size:15px; text-decoration:none}
+
+#box a {color:#3366FF;}
+#box a:hover {background:#ddd8b7;}
+#box a span {display:none;}
+#box a:hover span {position:relative; top:10px; right:10px; display:block; color:black; background:#ddd8b7; font:normal 16px courier, sans-serif; border:1px solid black; padding:10px;}
+
+#box2 a {color:#000000;}
+#box2 a:hover {background:transparent;}
+#box2 a span {display:none;}
+#box2 a:hover span {position:absolute;top:320px;left:200px; display:block; color:black; background:transparent; padding:10px;}
+
+#menu {width:300px; background:transparent; padding:10px;}
+#menu a {color:#004080; font:bold 13px verdana, sans-serif; margin:5px 0 5px 0; padding:1px 3px 1px 4px; text-decoration:none; background:#f6e4c1; display:block;
+         border-top:1px solid #e4d9c0; border-right:1px solid #99917d; border-bottom:1px solid #99917d; border-left:1px solid #e4d9c0; width:255px;}
+#menu a:hover { color:#f6e4c1; background:#004080; border-top:1px solid #000033; border-right:1px solid #336699; border-bottom:1px solid #336699; border-left:1px solid #000033;}
+
+#menu2 {width:520px; background:transparent; padding:10px;}
+#menu2 a {color:#004080; font:bold 13px verdana, sans-serif; margin:5px 0 5px 0; padding:1px 3px 1px 4px; text-decoration:none; background:#f6e4c1; display:block;
+         border-top:1px solid #e4d9c0; border-right:1px solid #99917d; border-bottom:1px solid #99917d; border-left:1px solid #e4d9c0; width:520px;}
+#menu2 a:hover { color:#f6e4c1; background:#004080; border-top:1px solid #000033; border-right:1px solid #336699; border-bottom:1px solid #336699; border-left:1px solid #000033;}
