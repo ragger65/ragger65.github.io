@@ -61,12 +61,12 @@ p.small {
   line-height: 17px;
 }
 
-li,dt { 
+dt { 
   margin-top: 1px; 
   margin-bottom: 1px;
 }
 
-dd {
+li,dd {
   margin-top: 1px;
   margin-bottom: 12px;
 }
